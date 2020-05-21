@@ -22,7 +22,7 @@ steps:
     ensureBackend: true
     backendAzureRmResourceGroupName: 'terraform-backend-resource-group'
     backendAzureRmResourceGroupLocation: 'westeurope'
-    backendAzureRmStorageAccountName: 'storageaccountjsparmanidevopslearning'
+    backendAzureRmStorageAccountName: 'storageaccountjsp123'
     backendAzureRmContainerName: 'storageaccountjsparmanicontainer'
     backendAzureRmKey: 'kubernetes-dev.tfstate'
 
